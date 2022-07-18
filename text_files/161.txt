@@ -1,0 +1,33 @@
+
+Oil & Gas industry would be one of the most impacted industries with digital disruption. Traditionally the industry requires high capital, operating costs and workforce that needs to work in unsafe conditions. Further the unpredicted nature of the oil rigs, the capacity of the rig where the huge capital has been invested makes it an attractive area and potential for the emerging digital technologies. The industry has now changed from all about barrels to some amount of bytes too.
+
+
+
+
+Potential Areas for Digital Technology
+It helps to improve the areas of Manufacturing, operations , marketing servicing across various functions that one could never imagine using volumetric display, Affective computing, Data integration , Digital manufacturing, mixed reality, machine learning, LTE, high performance computing, personal analytics and predictive analytics, cognitive technologies, deep learning, Artificial intelligence and robots.
+The safety of the working conditions can also be improved.
+
+Oil Exploration
+Source: Institute of Petroleum & Energy Vol. 5
+Across the three stages involved in the production of the oil and gas industry, digital technology can be implemented:
+
+
+Exploration:
+Currently, standardized data, advanced algorithms and the use of high-performance computers put the operation into analyzing and visualization states. By augmenting the visual cognition of geoscientists using machine learning to reveal the geography we can right size the existing portfolio and including identifying sub-commercial, marginal resources that are reducing the profitability and locking up significant capital. This creates a potential value by means by increasing the certainty of extraction from the rigs and deeper commercial viability of 2P reserves that form 50% of 1P reserves.
+
+Development:
+At present, distinct objective, proprietary tools and lack of standardized data are creating a wide variety of integration issues. By integrating and analyzing using securely layered integrated frameworks and analytics on diverse drilling data using open source architecture it has the capability of saving the costs up to $30 billion dollars for upstream players annually. This further helps in breaking the data silos and finding the digital RoI to keep the pace and direction of innovation intact.
+
+Production:
+The current standing continuity in operations and a legacy asset base explains the less sensorized state of operation. To break the never-ending cycle of upgrading and retrofitting the equipment in existing fields without spending much can be attained by sensorizing by following a layered data generation strategy and extend the analysis to a reservoir level. This results in an additional cash flow of over $20 billion apart from cost savings on equipment failure and repair.
+
+Till date, the capabilities of digital technology have only been explored in developing roadmaps for optimizing the operating costs involved. However, still, there is a scope for disruption by digital technology given the untapped landscape of the productive capital (PPE- Plant, Property, and Equipment)
+The quality and the efficiency of the system dramatically increase by employing IoT in various phases and the results have been illustrated as below:
+
+Effects of using IoT in Oil & Gas Industry
+Cyber-security:
+Another important area that benefits are the cybersecurity of the oil & gas industry. This has been in the area that has been a vulnerable posing threat to the nation. The cyber attack can lead to seepage of sensitive information which can prove costly and even lead to a plant shutdown. With the increase in the involvement of digital technology, the risk of cyberterrorism has also evolved which might end up in industrial espionage and disruption of operations. Due to this increased risk, as per the reports by ABI Research, the oil and gas companies are planning to spend $1.87 billion on protection against cyber attack in 2018. But, the best part is that this rise in risk due to data-based linkages of operations is dealt with the help of digital technology only. The data and the information of rigs, refineries, and headquarters can be encrypted from end to end and safety can be ensured. Thus, there is a need for an approach which can deal with the issue of cyber-security in the oil and gas sector in programmatically and sustainably.
+
+"Blackcoffer Analytica 1st Winner, The Strategists, Nandini Busireddy & Rahi Jain, IIM Raipur"
+ 

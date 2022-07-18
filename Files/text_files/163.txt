@@ -1,0 +1,25 @@
+
+Big Data has emerged as one of the biggest business and technological buzzwords of recent years. The term Big Data applies to information that cannot be processed or analyzed using traditional tools or processes. A number of IT companies are leading the development of Big Data analytics programs and are creating unique packages for retailers, which suggests that it is going to have a big impact on the retail industry.
+Using big data to identify promotion items that actually grow category sales and store profits are the top opportunities identified by retail professionals. Innovations in Big Data and retail often bog down in the vastness of its potential, leaving retailers with only the vaguest guidance as they try to figure out where and how to invest in this powerful tool. 
+
+Most early big data efforts are targeted at sourcing and analyzing internal data, which also true for retailers. In retail industries, internal data is the primary source of big data with retail organizations. Retailers should take a pragmatic approach to adopt big data and also that there is tremendous untapped value still locked away in their internal systems.
+Value making big data sources for retailers are:
+
+Transactions
+Log data
+Events
+E-mails
+Social Media
+Sensors
+External Feeds
+RFID scans or POS data
+Free-from text
+Geospatial
+Audio
+Still images / video
+
+It is advised that retailers who are active in big data efforts should analyze transactions data as well as log data. Transaction and log data are machine-generated data produced to record the details of every operational transaction and automated function performed within the retailers’ business or information systems – data that has outgrown the ability to be stored and analyzed by many traditional systems. As a result, in many cases, this data has been collected for years, but not analyzed.
+Retailers should also make use of RFID scans and point of sale (POS) data. This is a natural area for retailers to lead given their history and dependence on POS data for transactions. Unlike other industries, retailers severely lagged in analyzing free-form text data, with no retailers reporting its use compared with other industries. This may represent an opportunity for some retailers to become early adopters of this area of analysis. Early adopters of big data are turning information into insights that deliver value to their organizations.
+For example, a global footwear retailer leverages transactional insight to generate new opportunities and business growth. Previously, the company had its order, sales, inventory, and financial data dispersed across the company, making it difficult for managers to quickly access data needed to make critical business decisions. Managers couldn’t identify products in greatest demand, resulting in warehouses overstocked with less popular items and hot items on back order.
+To enable more timely and effective operations decisions, the retailer should create a seamless reporting framework that provides granular, real-time information from the sales floor to its suppliers’ inventory and production schedules, which allows targeting of new customers and better inventory forecasting. In addition, transactional information from the retailer’s core platforms should be standardized and integrated into a single reporting framework to improve visibility into business activity, enabling deeper insight into customer needs.
+With these new capabilities, managers can quickly respond to marketplace demands and address business challenges. Having real-time and granular visibility into store-level sell-through and inventory data enables optimized replenishment and merchandising practices, while supply chain transparency promotes lower-cost logistics. The solution can be positioned the company for competitive advantage by helping boost sales and lower operational costs.

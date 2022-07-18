@@ -1,0 +1,57 @@
+
+“As you sow, so you reap,” because “God watches everything.” I often wonder if God is not really “the God” but just a person with infinite life and great acumen for analytics. Because then only he would be able to predict and manipulate our future based on our actions. I am not an atheist; it’s just that I couldn’t find a better metaphor to depict the power of analytics. Analytics is a way of interpreting and communicating relevant and meaningful patterns in data. Thus, it is obvious that for the existence of analytics, it requires data. Now, the good news is that data is everywhere; every single human impression, online or offline, is data. But, the bad news is that it is extremely difficult to filter out the relevant information from the ocean of data.
+Well, for a relief, analytics is getting evolved to take care of this issue as well. The answer of the evolved analytics, to the issue of finding relevant data, is Web 3.0 (embedded in Artificial Intelligence). In simple words, if you are searching for particular information, let’s say about a word Adam which could be anything, a name, any brand, a restaurant or whatsoever; Web 3.0 will analyze your location, your interests through your impressions on the internet and on the basis of them, it will show the results for the word “Adam” that are most relevant to you.
+The companies, these days, find the positioning of their products and brands the most crucial and challenging task. With a myriad of similar brands, with similar offerings, it is really difficult to make a dominant impression on the minds of the consumers. After, digital platforms coming into the picture, the power has passed into the hands of the consumers. From the selection of delivery channels, selection of communication channels to the selection of payment methods, every component in the distribution channel is an offering bundled with the actual product/service. Thus, companies are leveraging the attributes of the distribution channels as the point of differentiation to stand out in the horde of brands. In order to control and optimize these attributes, the brands are trying to decipher the behavior of the consumers and their preferences by critically analyzing their on-site and in-store buying patterns. This need of the marketers has led to the introduction of what we call the Age of Analytics. So, let us look at some great and unique ways in which Analytics has helped the firms to accurately analyze and predict consumer buying behavior.
+Let us design this recipe of success by fragmenting Analytics into its different kinds, and then explaining the role of each fragment in designing the business plan for any firm. So, depending upon the field of analysis and the objective of analysis, Analytics can be largely fragmented into predictive analytics, prescriptive analytics, descriptive analytics, retail analytics, store assortment, and stock-keeping unit optimization, marketing optimization and marketing mix modeling, web analytics. Now, let us look at the different stages involved in the designing of a business plan for any firm and the right kind of analytics to be applied for that particular stage.
+
+
+Industry Analysis: Understanding the battleground
+
+
+It is important to analyze the industry in which the firm is operating. One cannot compare the sales of a geo-textile manufacturing company with a company that manufactures biscuits. Thus analyzing the industry standards is the first and foremost step towards developing a successful business plan.
+For this stage, the firm needs descriptive analytics tools which can interpret the past data of the industry into meaningful patterns and trends which are easier to study. Also, the industry standards must be converted into measurable terms so as to define a reference point for the firm.
+
+
+Determining internal competencies: Understanding the power of self
+
+
+Before entering into the battleground, a firm must be aware of its own strengths and weaknesses. Weakness is a term that can transform the fate of a firm. A company which is aware of what not to do is better than a company which knows what to do.
+The Descriptive Analytics will again come into the play but in a different context. Now, the approach will company-centric. This will include determining the infrastructural and customer service capabilities of the firm and the external opportunities and threats to the firm from the data obtained through primary and secondary research techniques.
+
+
+Understanding the consumers
+
+
+The center of every business plan is the consumer. Thus, understanding their needs and preferences becomes an urgent requirement for the business plan. The answer to this urgency is Predictive Analytics.
+Predictive analytics takes the past buying behavior and buying a pattern of the consumers as the input for the analysis. The key tasks are to predict the perceived value of the offerings in the minds of consumers, the consumer involvement with the product and the factors influencing the consumers’ buying behavior.
+
+
+Competition: Understanding the Rivals
+
+
+From the industry analysis only, one can draw a rough idea about the best performing firms in the industry and a bit about their positioning strategies. But this is not enough. Determining the secret ingredient of their recipe is the key motive of conducting competitors’ analysis.
+The task is difficult. Thus it requires a synergy of descriptive as well as predictive analytics.
+With the help of the trends and patterns designed through descriptive analytics, the firm has to predict the key competencies, the target segment, and the promotion strategies of its competitors.
+
+
+Plan the Strategy
+
+
+After doing the complete background check of the industry, the competitors, and the company itself, it is time to act. The action plan has to be comprehensive, feasible, measurable, and well directed towards the goal of the company.
+Prescriptive Analytics serves the purpose of this stage. The results from the past analyses will serve as the input data for this stage. In this stage, the firm will make strategies for market optimization, brand assortment, stock keeping unit optimization, marketing mix modeling and communication channel strategy.
+
+
+Implement the Strategy
+
+
+Implementation is a crucial phase. A company implements a strategy at a large level may be national or at times at the global level. Thus, to track the data becomes the most challenging task in this phase.
+Now, why is the data so important? Well, a business cycle never ends; incremental development is the key to survival in the market. Thus, to measure the success of the strategy, to accurately predict the consumer behavior for future strategies, for retaining the consumers through post-purchase strategies, a company must manage its data very wisely.
+
+
+Measuring the success
+
+
+In the planning phase, the well-directed objectives were set, and the decisions were made with assigned parameters (or KPIs) to measure the success of the plan. In the implementation phase, a large amount of data is collected representing the actual reaction of the consumers towards the company’s strategy. Now, in the measurement phase, the actual reaction of the consumers will be put against the expected reaction. For managing such a large quantity of data, Big Data Analytics is the solution.
+After the measurement phase, the company will have a clear picture of what went wrong and what went right. This will build the base of the company’s future strategies. Analytics has made things simpler and complex at the same times. On one side, where analytics provides simple solutions for designing a better business plan, at the same time it is making the competitions more intense and competitors more unpredictable. In the end, the things that have always created a difference are intuition and self-belief, and Analytics is meant just to provide a basis for those beliefs and inner feelings.
+Blackcoffer Insights 5.0, Pratham Kashyap, IIM Rohtak
+***

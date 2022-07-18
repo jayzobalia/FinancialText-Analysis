@@ -1,0 +1,92 @@
+
+Data held by companies is a real treasure that reveals its value by creating new services.
+Monetization is about data selling but is foremost the creation of new digital products and services that are fostered by data.
+These new services are the key
+differentiators of the most innovative companies. Service Design is the best
+approach to innovate and create new data monetization applications.
+A framework for data monetization
+Today, mega-companies such as Facebook and Google
+derive a large portion of their revenue from the effective utilization of data.
+They have mastered the art of data monetization — turning data assets into
+cold, hard cash. These companies offer a free, public service that allows them
+to harvest massive amounts of data about their users. They then provide this
+data — for a fee — to advertisers that want to create a personalized
+marketing experience.
+Here are several potential opportunities for data
+monetization:
+Identifying new revenue opportunities (products, markets, or customer segments)Improving marketing impact through personalizationIdentifying and proactively responding to customer satisfaction levelsMinimizing customer churn and extending customer retentionOptimizing the supply chain through data sharing with partnersDiagnosing revenue leaks and instituting corrective measuresDetecting and preventing fraud and piracy
+Start
+to monetize your data today
+But to really know if you’re ready to
+monetize, you need to access what you have before you attempt to earn revenue
+from your information, make sure that it is:
+DependableRelevantSegmentSecure and anonymized
+Developing Capability for Data Monetization
+Business models are already changing through the
+exploitation of information. To be successful in this age of data monetization,
+you must think creatively about how you hire talent and develop leaders.
+The C-suite executives who will help your business
+succeed today, and certainly tomorrow, will be different from the people who
+led blue-chip firms 30, 20 or even 10 years ago. The route you take to data
+monetization will have an impact on the resources and capabilities your
+organization needs to steal a march on its rivals.
+You — and your people — must adapt to this second wave of big data exploitation, where insight shapes the new product and service development. If the way to make dollars is through data, then your organization and its people must make that shift. Get your capability ready now.
+Business
+Model Spectrum
+External data monetization models vary by level of value
+impact to customers, analytics sophistication, and revenue potential.
+Data as a service. Also known as data
+syndication, this is the simplest of the three business models. Anonymized and
+aggregated data are sold either to intermediate companies or end customers who
+mine the data for insights. 
+Insight as a service. Companies also
+can combine internal and external data sources, applying advanced analytics to
+provide actionable insights. AkzoNobel has created a decision-support model for
+ship operators to enable fuel and CO2 savings. They make
+available to ship operators and owners an advanced analytics-enabled mobile iOS
+app that provides continuous performance prediction of coating technologies.
+This approach empowers vessel operators by allowing financial and performance
+benefit analysis of coating choices, thus optimizing important investment
+decisions.
+Analytics-enabled platform as a service. This is the most
+complex of the three business models, and it offers the greatest value to
+customers. Companies use sophisticated and proprietary algorithms to generate
+enriched, highly transformed, customized real-time data delivered to customers
+via cloud-based, self-service platforms. 
+Setting up a
+Data Factory
+To maximize the potential for internal and external monetization,
+companies should set up a “data factory” that automates the process of
+collecting, enriching, transforming, and deriving insights from data. It’s a
+complex undertaking requiring a set of design principles that touch on design
+thinking, lean start-up, and agile methodologies for success.
+Create a data platform. The architecture and technology stack that supports a data monetization business model typically involves a robust enterprise data strategy, and a “data platform” with an intuitive interface to allow analysis, synthesis, modeling, and interaction with the data at a higher, more visual level.
+Turning Data
+into a Strategic Asset
+All companies are data companies, and most have a substantial amount of
+untapped, underutilized data, which could unlock tremendous financial value.
+There are three key components to complementing and even transforming a
+business model with a data factory:
+Identify potential internal and external
+monetization opportunities.Appraise your data, identify any hidden
+opportunities to enrich it, and increase insight value.Develop a strong monetization strategy and
+assess business opportunities, dependencies, and capability gaps.
+Key areas
+where data monetization can impact your business.
+Managed Services Provision: Data gives some firms an opportunity to pivot. Take telecom businesses, which have traditionally focused on network provision. The capital expenditure associated with these core activities is high and will only increase with the launch of 5G. Smart operators are looking at their huge data assets and creating new routes to market.Mobility: Companies that have hooked into the connected automobile ecosystem are already creating valuable products and services. Insurance firms, for example, are using telematics to monitor driver performance and charge premiums based on behavior.Payments: Payments data comes in multiple forms. Enterprise-level information includes customer preferences, line-of-business data, and needs assessment. Supplemental data includes raw data from external sources such as social media and weather channels. The merchant ecosystem, meanwhile, provides another conduit of information.Logistics: Logistics is the world’s biggest integrated system. Every movement requires a huge amount of information about flow, and smart businesses are tapping into this insight to see when the cost of movement is likely to be lowest. UPS, for example, is using telematics and advanced algorithms to create optimal routes for delivery drivers.Health Care: New entrants recognize the potential financial gains from data monetization in health care. Experts suggest that Alphabet has at least nine life and science companies, while Amazon is looking at opportunities to use big data to transform health care.
+Conclusion
+Very few organizations
+have established methods for data asset management. It is not easy to implement
+if the business is not built on data from the beginning. But it is not enough
+for data to be used only for the purposes of monitoring and maintaining
+physical assets. That data needs to be monetized. This, in part, is a process
+of generating new revenues from data that currently serves another purpose.
+The business of data monetization is likely to evolve
+quickly. Payments providers would be well advised to begin planning their
+strategy without delay: first-mover advantage may determine future success. A
+“start small, scale fast” approach allows for flexibility, learning, and course
+correction as the business develops. Partnerships with complementary players in
+payments and in the digital and start-up ecosystem could be a winning factor.
+How much value could be created is difficult to estimate at this early stage,
+but experience in some use cases and markets suggests it could amount to
+between 5 and 10 percent of revenues.

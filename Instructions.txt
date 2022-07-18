@@ -1,0 +1,23 @@
+Basic Code Instructions:
+
+A] Requirements - 
+ 1) re
+ 2) pandas 
+ 3) bs4 - BeautifulSoup
+ 4) requests
+ 5) nltk
+
+B] INPUTS - 
+   Input.csv
+
+C] OUTPUTS - 
+   Output.csv (attatched in drive link)
+
+D] Accesory files -
+   Extra files used during code execution. i.e. initial text files, Cleaned text files, 
+   Master dictionary, Positive-negative words dictonary
+   attatched in drive link.
+
+E] Extra - 
+   index no.44 is missing in input.csv so accordingly adjustments are made in code.
+   

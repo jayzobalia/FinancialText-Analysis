@@ -1,0 +1,28 @@
+
+The ongoing digitalization of the business world is putting companies at risk of cyber-attacks more than ever before. Big data analysis has the potential to offer protection against these attacks. 
+Cyber Security Threats are Rising
+Since the notion of a corporate security perimeter has all but disappeared in recent years thanks to the growing adoption of cloud and mobile services, information security has experienced a profound paradigm shift from traditional perimeter protection tools towards monitoring and detecting malicious activities within corporate networks.
+Increasingly sophisticated attack methods used by cybercriminals and the growing role of malicious insiders in several recent large scale security breaches clearly indicate that traditional approaches to information security can no longer keep up.
+Companies Have to Rethink their Cyber Security Concepts
+Analytics is the key element in leveraging cyber resilience. With increasingly advanced and persistent attacks and the simple fact that every organization must protect itself against all varieties of attacks while an attacker only needs one successful attempt, organizations must rethink their cybersecurity concepts. They have to move beyond pure prevention towards the PDR paradigm: Prevent – Detect – Respond.
+How Big Data Analytics Fits In?
+At the core of this approach stands improved detection – and that is where big data analytics comes into play. Detection must be able to identify changing use patterns; to execute complex analysis rapidly, close to real-time; to perform complex correlations across a variety of data sources ranging from server and application logs to network events and user activities.
+This requires both advanced analytics beyond simple rule-based approaches and the ability to run analysis on large amounts of current and historical data – big data security analytics. Combining the current state of analytics with security helps organizations improve their cyber resilience.
+Big Data Security Analytics: A New Generation of Security Tools
+As the security industry’s response to these challenges, a new generation of security analytics solutions has emerged in recent years, which are able to collect, store and analyze huge amounts of security data across the whole enterprise in real-time.
+Enhanced by additional context data and external threat intelligence, this data is then analyzed using various correlation algorithms to detect anomalies and thus identify possible malicious activities.
+Unlike traditional SIEM solutions, such tools operate in near real-time and generate a small number of security alerts ranked by severity according to a risk model. These alerts are enriched with additional forensic details and are able to greatly simplify a security analyst’s job and enable quick detection and mitigation of cyber-attacks.
+
+What Made Big Data Security Analytics Possible?
+The biggest technological breakthrough that made these solutions possible is big data analytics.
+The industry has finally reached the point where business intelligence algorithms for large-scale data processing, previously affordable only to large corporations, have become commoditized. Utilizing readily available frameworks such as Apache Hadoop and inexpensive hardware, vendors are now able to build big data solutions for collecting, storing, and analyzing huge amounts of unstructured data in real-time.
+Combining Data to Predict Suspicious Activity
+This makes it possible to combine real-time and historical analysis and identify new incidents that could be related to others that occurred in the past.
+Coupled with external security intelligence sources that provide current information about the latest vulnerabilities, this can greatly facilitate the identification of ongoing advanced cyber-attacks on the network.
+Having a large amount of historical data at hand also significantly simplifies initial calibration to the normal patterns of activity of a given network, which are then used to identify anomalies. Existing solutions are already capable of automated calibration with very little input required from administrators.
+Identifying Relevant Incidents
+Based on proven big data analytics algorithms, these solutions can identify outliers and other anomalies insecurity data, which almost always indicate some kind of malicious or at least suspicious activity.
+By filtering out the statistical noise, big data security analytics can reduce massive flows of raw security events to a manageable number of concise and clearly categorized alerts to allow even an inexperienced person to make a decision on them. Still, by keeping all historical information available for later analysis, it provides a forensic expert with much more detail about the incident and its relationship to other historical anomalies.
+Automating Workflows
+Finally, modern big data security analytics solutions provide multiple automated workflows for responding to detected threats, such as disrupting clearly identified malware attacks or submitting a suspicious event to a managed security service for further analysis. Automated controls for cybersecurity and fraud detection have been identified as one of the key business drivers for future adoption.
+

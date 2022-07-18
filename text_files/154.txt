@@ -1,0 +1,48 @@
+
+The global healthcare industry is expected to grow at a CAGR of 24.7%. This is made possible by the leveraging of various analytics tools and practices by the healthcare providers for improving their operational efficiency.
+
+The United States is at the front of the growth, accounting for 65.84% which can be attributed to the country’s substantial investment in healthcare.  Europe and Asia are on a path of steady growth with increased expenditure on technology, R&D and the emergence of Big Data.
+
+The volume of data available is expected to be increasing at an exponential rate in the years ahead. Current cumbersome techniques of evaluation will soon have to pave the way for advanced analytics. These techniques, which have the ability to process, act on, manage and distribute data from a variety of sources, will become the backbone of the healthcare sector. With this evaluation, the vast health data will be better understood and more effective, real-time, specific decisions can be taken.
+
+Source: http://www.techferry.com
+Current Situation
+Before discussing the future, it is important to reflect upon the current scenario. After the introduction of Electronic Health Records (EHR), the amount of data collected have gone up significantly, creating metadata that can be used for querying. Healthcare organizations have resorted to analytical tools to improve the efficiency of patient examination. With a wide range of information about the patient’s history, genetics and demographics, more customized quality care could be provided. More and more venture capitalists have started investing in healthcare analytics.
+However, healthcare organizations are a long way from making effective use of such information. A proper understanding of the vast applications of such a resource is still scarce. Differentiating between quality data and noise has been becoming more and more difficult. The high cost of analytic solutions and lack of skilled professionals have been a pain point in many organizations.
+Leveraging big data analytics in healthcare
+
+Patient profile analytics: Analytics can be applied to the existing patient profiles to identify those who may need preventive care. Patients who are at risk of developing a disease like diabetes can be helped with lifestyle changes and preventive care.
+Public health: By analyzing a large amount of data available, disease patterns can be identified and outbreaks can be predicted by finding various correlations among the data points.
+Resource management: With the development of location tracking technologies like RFIDs, patients, staffs, instruments and other resources in the enterprise can be effectively tracked and managed on a real-time basis.
+Fraud analysis: Hospitals on a daily basis receives a large number of insurance claims. With the help of big data analytics, valid claims can be segregated out reducing wastage of time and resources.
+Genomic Analytics: Genes of an individual and high-powered computing are combined to produce personalized treatments for each patient. Genetic disorders can be identified and target therapies can be developed.
+Real-Time health care: Various mobile applications are being developed that help the individual to manage their care in a personalized manner. Wearables are being developed that can effectively track the safety and monitor the conditions in real-time by analyzing the large volumes of fast-moving data.
+R & D: Predictive modeling and statistical methods can be used to improve clinical trials and finding the follow-on indications. Trial failures can be reduced and new product development can be given the push it demands.
+
+Concerns and mitigation strategies
+
+
+Data Integrity: 
+The data in many situations come from places with questionable data governance standards. Obtaining data that meets the standards required for accurate use is one of the major ongoing battles in organizations. Lack of understanding of the usage of EHR (Electronic Healthcare Records) and the importance of capturing quality data further adds to the lack of data quality.
+
+Future:  Improvements in data capture by prioritizing valuable data types and educating clinicians about how to ensure that data is useful for downstream analytics are some of the ways forward.
+
+
+Filtering: 
+Presence of inaccurate unwanted data (noise) can derail the effectiveness of the analytics system. The data, which comes from disparate data sources in multiple formats, unless acted upon properly will lead to inconsistency. Though Data cleaning, the process of ensuring the datasets are consistent, accurate and relevant, are being done, most organizations still use inefficient manual methods.
+
+Future: IT vendors are now coming up with applications which use machine learning that use rules to filter and segregate data, which will make the process effective and affordable
+
+
+Storage: 
+With the latest developments in technology, the amount of data being generated and captured is increasing at an alarming rate. Even though most enterprises currently prefer on-premise data storage which has the advantage of having better control over security and access, it has become difficult to modify, scale and adapt to situations.
+
+Future: Many organizations are slowly shifting to cloud storage and various hybrid approaches to store their data. This provides a highly scalable, cost-effective solution which provides ease of access.
+
+
+Security: 
+With the recent episodes of high profile hackings, security breaches, ransomware, etc security has become a huge concern in this technological era. From a small action like leaving the laptop unsecured to highly sophisticated hacking, data is not safe in spite of many initiatives being taken.
+
+Future: Employees are being educated in transmission security, authentication protocols, and controls over access, integrity, and auditing. Procedures such as using the latest anti-virus software, setting up firewalls, encrypting sensitive data, and using multi-factor authentication are some of the ways to prevent security attacks.
+As we move forward in 2018, organizations will have to analyze much more complex and high-volume data. With the development of customized, highly efficient data analytics practices, organizations can make sense of the data and use it for providing efficient personalized care. Data integrity is bound to become the most important factor as the effectiveness of data analysis methods are dependent on the incorporation of error-free, relevant data from quality sources.
+Blackcoffer Analytica III, Arun.R, T A Pai Management Institute, Manipal

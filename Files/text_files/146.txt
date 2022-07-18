@@ -1,0 +1,60 @@
+
+What is Artificial Intelligence?
+Today we talk a lot about artificial intelligence and how it will change our future. But we don’t know what it actually means. Let us see what is artificial intelligence.
+Artificial Intelligence was coined in the 1950s as a task which is performed by a machine with the intelligence a human can use to complete the task. In layman language, it acts a situation in the same manner in which a human would act. If the human can answer to a question in a conversation, so would AI can. It analyses the information and makes future decisions, in the same way in which a human would.
+AI basically works on an algorithm. It uses a computers intellect to solve the problem quicker and more accurate than a human can. AI mostly consists of statistical information to find trends and patterns in the data. AI can perform various functions like analyzing, planning, problem-solving and learning. Another part of AI is Machine Learning, which gathers information, learns and adapts as it accumulates new data.
+Stages of Artificial Intelligence
+The artificial intelligence consists of three main stages.
+Artificial Narrow Intelligence:
+This is the first stage of AI as it functions narrowly. It functions like an infant baby where it covers only one functional area. ANI can be used in the best manner when you have to use it in a reparative manner. It is very cost saving as we do not need to hire any human and pay him on a monthly or weekly basis.
+Artificial General Intelligence:
+This is the stage which is the biggest achievement in the entire humanity as it covers a broad area in the technological space. Humans have finally constructed a machine which not just think but also has the reasoning ability. With AGI, machines now have an ability similar to humans. Machines have become capable of doing things which are performed by humans. AGI is working with governments and organizations in problem-solving and abstract thinking also. However, it is still in evolution and it will take some time to replace all the abilities of a human and work parallelly with him. But with this can humans sustain?
+Artificial Super Intelligence:
+ASI is the final stage of artificial intelligence as predicted by the scientists in which machines will automate the tasks where average human intelligence is used. If AI reaches that stage it will not only discover the mysteries of the universe but also able to solve the problems which are not discovered by mankind right now.
+How AI is building a Business Model?
+AI has narrowed the gap between businesses and technology, it reduced the burden of tasks on skilled individuals and it has helped in easing decision making processes. The traditional IT methods, which are solving precise, specific and repetitive problems have reduced the business and technology to one of user and tool. AI’s powerful reasoning and contextualizing ability are now making businesses to be more proactive with their forecasts and solutions.
+Traditionally where a business model is forcing humans to define rules for machines to follow, AI has derived its own rules from data which is provided to it. This has led to businesses taking less time to ask questions and more time to act on the answers. The time which skilled labor used to take in modifying their tools to ensure their inferences are correct, the more time can be spent on working proactively on solutions for their businesses. AI will not replace the workers but AI will add value to their skills with which they can leverage their businesses.
+The self-healing and adaptable power of AI programs will help management to stop worrying about the logistics of data and to start thinking on ways to leverage this power to discover the areas which were impossible to explore because off less time or insufficient information.
+In today’s technological world businesses are about to shift from more reliance of human decisions, less forecasting errors and few necessities for subjective management calls will help organizations with improved ability to predict and respond accurately to customer and clients’ needs.
+How AI revolutionizing areas of Business?
+Artificial Intelligence is not just limited to top multinationals anymore, a lot of rapidly growing Small and Medium Enterprises (SME) are entering into the AI market. It is predicted by research firm Spiceworks that around 30% of the businesses will embrace AI by the end of 2018, an increase from just 13% in 2017. Rapidly growing AI-based technologies are driving development in nearly every sector. As we move ahead, AI will make sure businesses have incorporated these five areas.
+
+
+Marketing
+
+
+Machine learning algorithms can predict more accurate results than humans. The ability of artificial intelligence to analyze data to increase sales is one of the lucrative features many marketing firms are using. AI algorithm can drive through a large volume of user data to find trends and patterns, which will revolutionize the ways companies do effective marketing and help to leverage the content strategy. A recent Harvard report has shown analyzing chat logs for words and phrases can build successful sales by as much as 54%.
+Search engines like Google trends can help in capturing the trends of a particular product category with times with the help of keywords. Social media activity can provide AI algorithms like Amazon’s recommendation system with enough user data to analyze purchasing trends of individual users. Jeff Wilke, CEO of Amazon of the worldwide consumer, uses behavioral-tracking AI algorithms in place of traditional memory-based marketing algorithms. AI can help companies with their pricing strategies- AI can track price trends of a product category for higher profit margins.
+
+
+Human Resource Applications
+
+
+Machine learning algorithms can automate various tasks of human workers, freeing time, resources and money for businesses. While critiques say that this as a start of robots taking over humans and loss of jobs for humans, most businesses tend towards a more practical view.
+AI is a perfect complement to the human resources of a company. The technology will reduce the burden on administrative functions of a company, allowing its workers to focus more on creative and engaging work in more essential areas. According to Richard Branson, companies must empower their people to make on the spot decisions and think on their feet. Employees efforts and talent can be used more efficiently by freeing them from traditional tasks.
+
+
+Emotional Analysis
+
+
+Human emotions can be very complex to measure for AI, but the technology has surprised everyone with an application called ‘Emotional Analysis’. The use of surveys, social media, image recognition software and lots of other techniques, some AI algorithms are dedicated completely to analyze human perspectives on a host of topics with more reliability.
+The emotional analysis will enable companies to predict consumer behavior. The emotional analysis technology was used for PM Narendra Modi’s election campaign to judge people’s opinion towards policies of the UPA government. Using AI algorithms, companies can decide their marketing campaign in a changing market.
+
+
+Business Operations Efficiency
+
+
+Daily operations of a business can be improved with the help of AI algorithms, resulting in higher growth of the business. AI algorithms can analyze areas of supply chain and workflows to identify the improvements in business. A streamlined workflow will result in effective utilization of the company’s resources and it will reduce the costs due to low response time, maintenance and redundancy will be minimized.
+With AI in place, manufacturing firms can streamline their daily operations. Forbes magazine reported that with the integration of AI the production capacity rose to 20 percent and a drop in materials used for manufacturing operations by 4 percent, improving business operational efficiency.
+
+
+Artificial Intelligence Tools
+
+
+Before making the investment in AI algorithm, it is necessary for companies to have all the tools required for the better functioning of AI algorithms. Proper estimation of the internet speed must be done and the type of professionals required an additional cost that may incur in the future.
+For optimum use of AI, it is not necessary to hire a data scientist to integrate it with business. A large number of companies are making user-friendly AI tools for entrepreneurs and Small Medium Enterprises (SMEs). One of the examples is an AI-powered application called Grammarly is helping businesses with consistent, high-quality writing across the company’s brand, while a tool called Legal Robot is helping companies in developing clear and compliant contracts and legal documents.
+A number of companies are using predesigned chatbots for customer services and in employee training programs. AI-powered chatbots have improved natural language processing to a large extent, which is leading to utilizing for them in customer services. The use of chatbots has reduced response times for human service agents.
+Conclusion
+Although machine learning and artificial intelligence have incorporated into businesses, their full potential is still not being explored. AI although being used by many organizations it is still in the nascent stage and will take time to develop to its full potential. Early adoption of AI will help companies to sustain by predicting trends and taking corrective actions. The limitless applications of AI will provide companies with opportunities to innovate and differentiated in the competition.
+Blackcoffer Insights 5.0, Vinayak Anaokar & Surabhi Tiwari, Prin L.N Welingkar Institute of Management Development and Research, Mumbai
+****

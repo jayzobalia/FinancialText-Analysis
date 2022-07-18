@@ -1,0 +1,19 @@
+
+If we talk in terms of our general life, Exfiltrate means to surreptitiously move personnel or material out an area under enemy control. In terms of Computer science, Data Exfiltration is the unauthorized removal of data from a network e.g. leakage of Archives, Passwords, Additional Malware and Utilities, Personally identifiable information, financial data, trade secrets, source code, intellectual property, etc. For a hacker, it is easy to move things in a box. E.g. RAR file, ZIP file, CAB file, etc. Data Exfiltration via outbound FTP, HTTPS is most common these days.
+COVERT CHANNEL
+
+Source: https://urlzs.com/L7bf
+The main characteristic of a covert channel is that it is aimed at hiding the fact that communication is taking place. This differs from cryptography, where there is no intention to camouflage the transmission of data, but rather the goal is to make the data readable/useable solely to the receiver. The oldest form of a covert channel is steganography, where the intention is to avoid drawing suspicion to the transmission of a hidden message.
+
+Source: https://urlzs.com/GiJX
+Covert channels evolved from tattooing messages on a slaves scalp to embedding information into features of the TCP/IP protocol. Although a formal definition of covertness in the field of computer science does not exist, research on the detection of covert communication is very active. Informally, we can say that an operation is more covert if it is difficult to detect without the use of special tools that specifically look for it.
+For example, let us suppose that we want to detect a user who is printing documents on a particular printer over the network (for convenience, we will refer to such a user simply as John). Suppose that we do not set up any network tools to keep records of any communication between John’s workstation and the printer. The only way to detect if John prints something is to see if he walks to the printer to pick up the page. Alternatively, we may detect that every time we try to print something, we discover that the printer is frequently busy and that John is waiting for his print jobs to complete. If John wants to keep the operation hidden he should just print at a lower rate, say one page per day. Nobody would detect it. If instead he keeps printing all day long, at the highest possible rate, the operation becomes easily recognizable. Even printing at half the maximum rate makes the process quite noticeable.
+If we abstract this concept, we obtain the following: Covertness is a characteristic of an operation that can be measured by the rate of usage of the media. If the apparatus is exploited at its maximum capacity, the operation is easily visible with a covertness of zero; if instead it is exploited at a lesser rate, the operation will be increasingly covert. In other words, a measure of covertness is some function of distance from the capacity for a given medium. Therefore, to keep activity as covert as possible, the rate of usage, compared to the capacity of the equipment, should be kept as low as possible.
+The closer the capacity is to the rate at which the operation or transmission is executed, the more covert the transmission will be. Covertness is thus proportional to the difference between capacity and the actual rate used:
+Covertness = (Capacity of the medium – Transmission Rate)
+Define three kinds of threats:
+
+the unauthorized disclosure of information
+the unauthorized modification of information
+the unauthorized withholding of information (usually called the denial of service)
+
